@@ -1,13 +1,18 @@
-.conteiner{
-	
-	padding: 30px;
-	display: block;
+.conteiner2 {
+  padding: 30px;
+  display: block;
 }
-.family{
-	font-family: 'Comforter Brush', cursive;
+.text {
+  font-family: "Comforter Brush", cursive;
+  margin-left: 1200px;
 }
-.family p {
-	display: flex;
-	width: 350px;
-	height: 200px;
+.satauri {
+  margin-left: 1200px;
+}
+.building {
+  background-color: blue;
+  border-radius: 15px;
+  margin-left: 250px;
+  width: 505px;
+  height: 505px;
 }
