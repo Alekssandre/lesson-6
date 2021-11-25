@@ -1,7 +1,7 @@
 @font-face {
   font-family: "ALK Tall Mtavruli";
-  src: url(../fonts/alk-tall-mtavruli-webfont.eot);
-  src: url(../fonts/alk-tall-mtavruli-webfont.eot?#iefix)
+  src: url(fonts ../fonts/alk-tall-mtavruli-webfont.eot);
+  src: url( fonts../fonts/alk-tall-mtavruli-webfont.eot?#iefix)
       format("embedded-opentype"),
     url(../fonts/alk-tall-mtavruli-webfont.woff2) format("woff2"),
     url(../fonts/alk-tall-mtavruli-webfont.woff) format("woff"),
