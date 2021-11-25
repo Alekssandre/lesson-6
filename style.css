@@ -1,6 +1,5 @@
 .conteiner{
-	
-	padding: 30px;
+	padding: 100px;
 	display: block;
 }
 .family{
@@ -10,4 +9,18 @@
 	display: flex;
 	width: 350px;
 	height: 200px;
+}
+	p {
+		font-family: 'embedded-opentype';
+	}
+
+.photos{
+	display: inline-block;
+	width: 205px;
+	height: 200pc;
+	padding-left: 400px;
+	border: 15px;
+	border-color: blue;
+	border-radius: 15px;
+	border-right: blue;
 }
