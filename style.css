@@ -1,0 +1,13 @@
+.conteiner{
+	
+	padding: 30px;
+	display: block;
+}
+.family{
+	font-family: 'Comforter Brush', cursive;
+}
+.family p {
+	display: flex;
+	width: 350px;
+	height: 200px;
+}
